@@ -1,0 +1,6 @@
+As the size of data is too big, here is data's link on kaggle:
+https://www.kaggle.com/datasets/START-UMD/gtd
+
+
+API command:
+kaggle datasets download -d START-UMD/gtd
