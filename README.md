@@ -1,4 +1,4 @@
-#global terrorism analysis
+# global terrorism analysis
 
 This report presents The Global Terrorism Database (GTD) is an open-source
 database including information on terrorist attacks around the world from
